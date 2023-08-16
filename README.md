@@ -1,6 +1,6 @@
 ### Hi I'm Shefali 👩‍💻
 
-I'm a Frontend web developer from India.
+I'm a web developer from India.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -9,13 +9,13 @@ ________________________________________________________________________________
 
 🤝 All of my project source code are available on Github
 
-👩‍💻 All of my project previews are available at https://shefali.dev
+👩‍💻 All of my project previews are available at https://shefali.dev/projects/
 
-💬 Ask me about Frontend technologies.
+💬 Ask me about web development technologies.
 
 📫 Reach me at connect@shefali.dev
 
-⚡ Read my frontend development tips on Twitter at https://twitter.com/Shefali__J
+⚡ Read my web development tips on Twitter at https://twitter.com/Shefali__J
 
 🕮 Get my HTML ebook at https://shefali07.gumroad.com/l/wgrtio
 
