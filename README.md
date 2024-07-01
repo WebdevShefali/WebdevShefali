@@ -7,6 +7,7 @@ Technical Writer | Content Creator | Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://shefali.dev)
 * ✉️  You can contact me at [connect@shefali.dev](mailto:connect@shefali.dev)
+* 🚀  I'm currently working on [CSSnippets](http://cssnippets.shefali.dev/)
 
 <a href="https://www.twitter.com/Shefali__J" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Shefali__J?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
