@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in India<br>🖥️  See my portfolio at https://shefali.dev/<br>✉️  You can contact me at connect@shefali.dev<br>🚀  CSSnippets https://cssnippets.shefali.dev<br>🚀  Learnify https://learnify.shefali.dev<br>🚀  StyleShift https://styleshift.shefali.dev<br>📚  My ebooks https://shefali07.gumroad.com/<br>📰  My newsletter https://shefali.beehiiv.com/subscribe
+🌍  I'm based in India<br>🖥️  See my portfolio at https://shefali.dev/<br>✉️  You can contact me at connect@shefali.dev<br>🚀  CSSnippets https://cssnippets.shefali.dev<br>🚀  Learnify https://learnify.shefali.dev<br>🚀  StyleShift https://styleshift.shefali.dev<br>📚  My ebooks https://shefali07.gumroad.com/<br>📰  My newsletter https://shefalijangid.substack.com
 
 
 ## 🌐 Socials:
