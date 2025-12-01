@@ -14,6 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate CSS Roadmap: Learn Step by Step](https://shefali.dev/css-roadmap/)
+- [21 Frontend System Design Concepts for Software Engineers](https://shefali.dev/frontend-system-design/)
+- [The Ultimate JavaScript Roadmap: Learn Step by Step](https://shefali.dev/the-ultimate-javascript-roadmap-learn-step-by-step/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
