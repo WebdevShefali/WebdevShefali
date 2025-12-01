@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WebdevShefali&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevShefali&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WebdevShefali&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
@@ -19,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=WebdevShefali&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
 
-  ## 💰 You can support me by Donating
+  ## 💰 You can support me by here
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devshefali) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shefali0711) 
 
   
