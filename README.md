@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [25+ Websites to Practice HTML, CSS, and JavaScript](https://shefali.dev/websites-to-practice-html-css-and-javascript/)
 - [The Ultimate Python Roadmap: Learn Step by Step](https://shefali.dev/python-roadmap/)
 - [The Ultimate CSS Roadmap: Learn Step by Step](https://shefali.dev/css-roadmap/)
-- [21 Frontend System Design Concepts for Software Engineers](https://shefali.dev/frontend-system-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
