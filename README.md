@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Free Hosting Platforms for Your Side Projects](https://shefali.dev/free-hosting-platforms/)
 - [25+ Websites to Practice HTML, CSS, and JavaScript](https://shefali.dev/websites-to-practice-html-css-and-javascript/)
 - [The Ultimate Python Roadmap: Learn Step by Step](https://shefali.dev/python-roadmap/)
-- [The Ultimate CSS Roadmap: Learn Step by Step](https://shefali.dev/css-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
