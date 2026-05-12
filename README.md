@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 53 Concepts for Highly Effective Mobile System Design](https://shefali.dev/mobile-system-design-concepts/)
 - [Why Your App Needs a Loading Skeleton &lpar;Not a Spinner&rpar;](https://shefali.dev/skeleton-screens/)
 - [11 AI APIs You Can Integrate in Your Apps Right Now](https://shefali.dev/ai-apis/)
-- [11 Free Hosting Platforms for Your Side Projects](https://shefali.dev/free-hosting-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
