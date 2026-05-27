@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Some Websites Feel Instantly Better to Use](https://shefali.dev/why-some-websites-feel-better-to-use/)
 - [16 Python Libraries You Should Know](https://shefali.dev/python-libraries/)
 - [The 53 Concepts for Highly Effective Mobile System Design](https://shefali.dev/mobile-system-design-concepts/)
-- [Why Your App Needs a Loading Skeleton &lpar;Not a Spinner&rpar;](https://shefali.dev/skeleton-screens/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
