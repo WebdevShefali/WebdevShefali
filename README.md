@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When You Type a URL? Web Architecture Explained Simply](https://shefali.dev/what-happens-when-you-type-a-url/)
 - [Why Some Websites Feel Instantly Better to Use](https://shefali.dev/why-some-websites-feel-better-to-use/)
 - [16 Python Libraries You Should Know](https://shefali.dev/python-libraries/)
-- [The 53 Concepts for Highly Effective Mobile System Design](https://shefali.dev/mobile-system-design-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
