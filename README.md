@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [22 Things You Didn’t Know the Browser Could Do Natively](https://shefali.dev/browser-native-features-javascript/)
 - [24 Modern CSS Tricks Every Frontend Developer Should Know](https://shefali.dev/modern-css-tricks/)
 - [What Happens When You Type a URL? Web Architecture Explained Simply](https://shefali.dev/what-happens-when-you-type-a-url/)
-- [Why Some Websites Feel Instantly Better to Use](https://shefali.dev/why-some-websites-feel-better-to-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
