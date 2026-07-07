@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Python One-Liners That Will Surprise You](https://shefali.dev/python-one-liners/)
 - [22 Things You Didn’t Know the Browser Could Do Natively](https://shefali.dev/browser-native-features-javascript/)
 - [24 Modern CSS Tricks Every Frontend Developer Should Know](https://shefali.dev/modern-css-tricks/)
-- [What Happens When You Type a URL? Web Architecture Explained Simply](https://shefali.dev/what-happens-when-you-type-a-url/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
