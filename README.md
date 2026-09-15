@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [20 GitHub Repositories to Build with AI](https://shefali.dev/github-repos-build-ai/)
+- [Best Resources to Learn AI &lpar;For Developers&rpar;](https://shefali.dev/ai-resources-for-developers/)
 - [19 Chrome DevTools Tricks Every Developer Should Know](https://shefali.dev/chrome-devtools-tricks/)
-- [20 Python One-Liners That Will Surprise You](https://shefali.dev/python-one-liners/)
-- [22 Things You Didn’t Know the Browser Could Do Natively](https://shefali.dev/browser-native-features-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
