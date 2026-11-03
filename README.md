@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [18 VS Code Shortcuts and Settings  That Save Time](https://shefali.dev/vs-code-shortcuts/)
 - [17 GitHub Repositories to Learn AI](https://shefali.dev/github-repositories-to-learn-ai/)
 - [20 GitHub Repositories to Build with AI](https://shefali.dev/github-repos-build-ai/)
-- [Best Resources to Learn AI &lpar;For Developers&rpar;](https://shefali.dev/ai-resources-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
