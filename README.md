@@ -14,9 +14,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Are The Top Software Testing Tools Every QA Team Should Know](https://shefali.dev/software-testing-tools/)
 - [18 VS Code Shortcuts and Settings  That Save Time](https://shefali.dev/vs-code-shortcuts/)
 - [17 GitHub Repositories to Learn AI](https://shefali.dev/github-repositories-to-learn-ai/)
-- [20 GitHub Repositories to Build with AI](https://shefali.dev/github-repos-build-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
